@@ -1,0 +1,114 @@
+﻿competencia,vagas,percentual,grupo,denominador
+API,65,65.0,Com menção,100
+Python,46,46.0,Com menção,100
+AWS,43,43.0,Com menção,100
+CI/CD,40,40.0,Com menção,100
+Azure,30,30.0,Com menção,100
+SQL,30,30.0,Com menção,100
+Java,28,28.0,Com menção,100
+REST,24,24.0,Com menção,100
+Git,21,21.0,Com menção,100
+PostgreSQL,21,21.0,Com menção,100
+React,20,20.0,Com menção,100
+Docker,19,19.0,Com menção,100
+GCP,18,18.0,Com menção,100
+TypeScript,17,17.0,Com menção,100
+Kafka,14,14.0,Com menção,100
+Kubernetes,14,14.0,Com menção,100
+Databricks,11,11.0,Com menção,100
+LangChain,11,11.0,Com menção,100
+Spring Boot,11,11.0,Com menção,100
+RabbitMQ,10,10.0,Com menção,100
+JavaScript,9,9.0,Com menção,100
+Node.js,9,9.0,Com menção,100
+.NET,8,8.0,Com menção,100
+MongoDB,8,8.0,Com menção,100
+Terraform,8,8.0,Com menção,100
+C#,7,7.0,Com menção,100
+LangGraph,7,7.0,Com menção,100
+Angular,6,6.0,Com menção,100
+GraphQL,6,6.0,Com menção,100
+MySQL,6,6.0,Com menção,100
+Spark,5,5.0,Com menção,100
+C++,4,4.0,Com menção,100
+FastAPI,4,4.0,Com menção,100
+Kotlin,4,4.0,Com menção,100
+Pandas,4,4.0,Com menção,100
+Power BI,4,4.0,Com menção,100
+PyTorch,4,4.0,Com menção,100
+SQL Server,4,4.0,Com menção,100
+Flutter,3,3.0,Com menção,100
+React Native,3,3.0,Com menção,100
+Redis,3,3.0,Com menção,100
+Rust,3,3.0,Com menção,100
+Snowflake,3,3.0,Com menção,100
+Vue.js,3,3.0,Com menção,100
+Go,2,2.0,Com menção,100
+Playwright,2,2.0,Com menção,100
+TensorFlow,2,2.0,Com menção,100
+AI Agents,1,1.0,Com menção,100
+Cypress,1,1.0,Com menção,100
+Flask,1,1.0,Com menção,100
+PHP,1,1.0,Com menção,100
+Selenium,1,1.0,Com menção,100
+API,49,49.49,Sem menção explícita,99
+CI/CD,36,36.36,Sem menção explícita,99
+Azure,34,34.34,Sem menção explícita,99
+SQL,30,30.3,Sem menção explícita,99
+JavaScript,26,26.26,Sem menção explícita,99
+Git,25,25.25,Sem menção explícita,99
+AWS,24,24.24,Sem menção explícita,99
+.NET,22,22.22,Sem menção explícita,99
+Java,22,22.22,Sem menção explícita,99
+Python,21,21.21,Sem menção explícita,99
+C#,20,20.2,Sem menção explícita,99
+Kubernetes,19,19.19,Sem menção explícita,99
+Docker,16,16.16,Sem menção explícita,99
+REST,16,16.16,Sem menção explícita,99
+TypeScript,15,15.15,Sem menção explícita,99
+React,14,14.14,Sem menção explícita,99
+Node.js,12,12.12,Sem menção explícita,99
+Terraform,11,11.11,Sem menção explícita,99
+PostgreSQL,10,10.1,Sem menção explícita,99
+Spring Boot,10,10.1,Sem menção explícita,99
+Kafka,9,9.09,Sem menção explícita,99
+MySQL,9,9.09,Sem menção explícita,99
+Databricks,7,7.07,Sem menção explícita,99
+GCP,7,7.07,Sem menção explícita,99
+SQL Server,7,7.07,Sem menção explícita,99
+Angular,6,6.06,Sem menção explícita,99
+RabbitMQ,6,6.06,Sem menção explícita,99
+PHP,5,5.05,Sem menção explícita,99
+Spark,5,5.05,Sem menção explícita,99
+Go,4,4.04,Sem menção explícita,99
+Kotlin,4,4.04,Sem menção explícita,99
+MongoDB,4,4.04,Sem menção explícita,99
+Power BI,4,4.04,Sem menção explícita,99
+C++,3,3.03,Sem menção explícita,99
+Flutter,3,3.03,Sem menção explícita,99
+GraphQL,3,3.03,Sem menção explícita,99
+Redis,3,3.03,Sem menção explícita,99
+Ruby,3,3.03,Sem menção explícita,99
+Cypress,2,2.02,Sem menção explícita,99
+Playwright,2,2.02,Sem menção explícita,99
+Rust,2,2.02,Sem menção explícita,99
+Selenium,2,2.02,Sem menção explícita,99
+Snowflake,2,2.02,Sem menção explícita,99
+Vue.js,2,2.02,Sem menção explícita,99
+.NET Core,1,1.01,Sem menção explícita,99
+ASP.NET Core,1,1.01,Sem menção explícita,99
+Bootstrap,1,1.01,Sem menção explícita,99
+C,1,1.01,Sem menção explícita,99
+CSS,1,1.01,Sem menção explícita,99
+Dart,1,1.01,Sem menção explícita,99
+Firebase,1,1.01,Sem menção explícita,99
+HTML,1,1.01,Sem menção explícita,99
+Jest,1,1.01,Sem menção explícita,99
+NoSQL,1,1.01,Sem menção explícita,99
+Pandas,1,1.01,Sem menção explícita,99
+RESTful,1,1.01,Sem menção explícita,99
+React Native,1,1.01,Sem menção explícita,99
+SAP,1,1.01,Sem menção explícita,99
+SAP HANA,1,1.01,Sem menção explícita,99
+Swift,1,1.01,Sem menção explícita,99
+jQuery,1,1.01,Sem menção explícita,99

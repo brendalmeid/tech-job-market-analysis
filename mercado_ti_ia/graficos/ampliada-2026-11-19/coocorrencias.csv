@@ -1,0 +1,543 @@
+﻿par,vagas,percentual
+API + CI/CD,48,24.12
+Azure + CI/CD,44,22.11
+API + Azure,41,20.6
+API + REST,40,20.1
+API + Java,38,19.1
+API + SQL,38,19.1
+API + AWS,37,18.59
+API + Python,37,18.59
+API + Git,35,17.59
+AWS + Python,32,16.08
+CI/CD + Git,29,14.57
+AWS + Azure,28,14.07
+Azure + Python,28,14.07
+CI/CD + Python,28,14.07
+API + React,27,13.57
+AWS + CI/CD,27,13.57
+API + TypeScript,26,13.07
+Python + SQL,26,13.07
+API + JavaScript,25,12.56
+CI/CD + SQL,25,12.56
+API + Docker,24,12.06
+Azure + SQL,24,12.06
+API + PostgreSQL,23,11.56
+.NET + C#,22,11.06
+Azure + Git,21,10.55
+CI/CD + REST,21,10.55
+Java + Spring Boot,21,10.55
+AWS + SQL,20,10.05
+CI/CD + Docker,20,10.05
+CI/CD + Kubernetes,20,10.05
+Git + REST,20,10.05
+Git + SQL,20,10.05
+.NET + Azure,19,9.55
+AWS + GCP,19,9.55
+CI/CD + Java,19,9.55
+API + GCP,18,9.05
+API + Kubernetes,18,9.05
+API + Spring Boot,18,9.05
+AWS + Docker,18,9.05
+Git + Python,18,9.05
+.NET + API,17,8.54
+.NET + CI/CD,17,8.54
+Azure + C#,17,8.54
+Azure + Docker,17,8.54
+GCP + Python,17,8.54
+Java + REST,17,8.54
+API + Node.js,16,8.04
+AWS + Kubernetes,16,8.04
+Azure + GCP,16,8.04
+Azure + REST,16,8.04
+Git + Java,16,8.04
+JavaScript + TypeScript,16,8.04
+API + C#,15,7.54
+API + Kafka,15,7.54
+AWS + Java,15,7.54
+C# + CI/CD,15,7.54
+CI/CD + GCP,15,7.54
+CI/CD + Terraform,15,7.54
+Docker + REST,15,7.54
+.NET + React,14,7.04
+AWS + Git,14,7.04
+AWS + React,14,7.04
+AWS + Terraform,14,7.04
+Azure + Kubernetes,14,7.04
+CI/CD + PostgreSQL,14,7.04
+Databricks + Python,14,7.04
+Databricks + SQL,14,7.04
+Docker + Kubernetes,14,7.04
+Docker + Python,14,7.04
+Git + JavaScript,14,7.04
+Java + Python,14,7.04
+Node.js + TypeScript,14,7.04
+REST + SQL,14,7.04
+AWS + Databricks,13,6.53
+AWS + PostgreSQL,13,6.53
+Azure + React,13,6.53
+CI/CD + React,13,6.53
+Docker + PostgreSQL,13,6.53
+Kubernetes + Python,13,6.53
+PostgreSQL + Python,13,6.53
+React + TypeScript,13,6.53
+AWS + REST,12,6.03
+Docker + SQL,12,6.03
+Java + JavaScript,12,6.03
+JavaScript + REST,12,6.03
+PostgreSQL + SQL,12,6.03
+Python + REST,12,6.03
+API + LangChain,11,5.53
+Azure + Java,11,5.53
+Azure + JavaScript,11,5.53
+Azure + PostgreSQL,11,5.53
+C# + React,11,5.53
+Docker + Git,11,5.53
+Java + Kubernetes,11,5.53
+Java + SQL,11,5.53
+JavaScript + React,11,5.53
+JavaScript + SQL,11,5.53
+Kafka + RabbitMQ,11,5.53
+Kafka + SQL,11,5.53
+Kubernetes + SQL,11,5.53
+Python + Terraform,11,5.53
+API + MongoDB,10,5.03
+API + RabbitMQ,10,5.03
+Azure + Databricks,10,5.03
+CI/CD + JavaScript,10,5.03
+CI/CD + Kafka,10,5.03
+CI/CD + Spring Boot,10,5.03
+PostgreSQL + REST,10,5.03
+REST + TypeScript,10,5.03
+Spark + SQL,10,5.03
+API + Databricks,9,4.52
+API + GraphQL,9,4.52
+AWS + Node.js,9,4.52
+Azure + Kafka,9,4.52
+Azure + Terraform,9,4.52
+C# + SQL,9,4.52
+Docker + Java,9,4.52
+GCP + SQL,9,4.52
+Git + React,9,4.52
+Git + TypeScript,9,4.52
+Java + React,9,4.52
+Java + TypeScript,9,4.52
+JavaScript + Node.js,9,4.52
+Kubernetes + Terraform,9,4.52
+MongoDB + PostgreSQL,9,4.52
+Node.js + REST,9,4.52
+PostgreSQL + RabbitMQ,9,4.52
+React + REST,9,4.52
+.NET + Git,8,4.02
+.NET + SQL,8,4.02
+API + MySQL,8,4.02
+AWS + Kafka,8,4.02
+C# + Git,8,4.02
+C# + JavaScript,8,4.02
+CI/CD + MongoDB,8,4.02
+Databricks + Spark,8,4.02
+Docker + JavaScript,8,4.02
+Docker + Node.js,8,4.02
+Docker + Terraform,8,4.02
+Java + Node.js,8,4.02
+Kafka + Kubernetes,8,4.02
+Kafka + PostgreSQL,8,4.02
+Kafka + Python,8,4.02
+Kubernetes + PostgreSQL,8,4.02
+Kubernetes + REST,8,4.02
+MySQL + PostgreSQL,8,4.02
+Node.js + React,8,4.02
+PostgreSQL + React,8,4.02
+Power BI + SQL,8,4.02
+Python + React,8,4.02
+Python + Spark,8,4.02
+SQL + SQL Server,8,4.02
+.NET + Docker,7,3.52
+.NET + JavaScript,7,3.52
+.NET + REST,7,3.52
+.NET + SQL Server,7,3.52
+API + LangGraph,7,3.52
+API + Terraform,7,3.52
+AWS + LangChain,7,3.52
+AWS + MySQL,7,3.52
+AWS + RabbitMQ,7,3.52
+Angular + API,7,3.52
+C# + Docker,7,3.52
+CI/CD + Databricks,7,3.52
+CI/CD + Node.js,7,3.52
+CI/CD + TypeScript,7,3.52
+Databricks + GCP,7,3.52
+Docker + Kafka,7,3.52
+Docker + TypeScript,7,3.52
+GCP + Git,7,3.52
+GCP + Kubernetes,7,3.52
+GCP + PostgreSQL,7,3.52
+Git + Kafka,7,3.52
+Git + Node.js,7,3.52
+Git + PostgreSQL,7,3.52
+Git + Spring Boot,7,3.52
+Java + Kafka,7,3.52
+Java + PostgreSQL,7,3.52
+Kafka + REST,7,3.52
+Kafka + Spring Boot,7,3.52
+LangChain + Python,7,3.52
+REST + Spring Boot,7,3.52
+AWS + JavaScript,6,3.02
+AWS + Spark,6,3.02
+AWS + TypeScript,6,3.02
+Angular + Java,6,3.02
+Angular + REST,6,3.02
+Azure + Node.js,6,3.02
+Azure + RabbitMQ,6,3.02
+Azure + SQL Server,6,3.02
+Azure + TypeScript,6,3.02
+C# + REST,6,3.02
+C# + SQL Server,6,3.02
+CI/CD + RabbitMQ,6,3.02
+CI/CD + SQL Server,6,3.02
+Databricks + Git,6,3.02
+Docker + GCP,6,3.02
+Docker + RabbitMQ,6,3.02
+Docker + React,6,3.02
+GCP + REST,6,3.02
+Git + Kubernetes,6,3.02
+Git + MongoDB,6,3.02
+Git + Power BI,6,3.02
+JavaScript + PostgreSQL,6,3.02
+Kubernetes + MongoDB,6,3.02
+Kubernetes + Node.js,6,3.02
+Kubernetes + Spring Boot,6,3.02
+LangChain + LangGraph,6,3.02
+MongoDB + REST,6,3.02
+PostgreSQL + TypeScript,6,3.02
+RabbitMQ + REST,6,3.02
+Spring Boot + SQL,6,3.02
+Spring Boot + TypeScript,6,3.02
+API + Flutter,5,2.51
+API + Redis,5,2.51
+API + SQL Server,5,2.51
+AWS + C++,5,2.51
+AWS + Power BI,5,2.51
+AWS + Spring Boot,5,2.51
+Angular + CI/CD,5,2.51
+Azure + LangChain,5,2.51
+Azure + MongoDB,5,2.51
+Azure + Power BI,5,2.51
+Azure + Spark,5,2.51
+C++ + Rust,5,2.51
+CI/CD + GraphQL,5,2.51
+CI/CD + Power BI,5,2.51
+Docker + MySQL,5,2.51
+Docker + Spring Boot,5,2.51
+GCP + Node.js,5,2.51
+GCP + Terraform,5,2.51
+Git + RabbitMQ,5,2.51
+Git + Spark,5,2.51
+GraphQL + REST,5,2.51
+Java + MongoDB,5,2.51
+JavaScript + Python,5,2.51
+Kubernetes + MySQL,5,2.51
+Kubernetes + RabbitMQ,5,2.51
+LangGraph + Python,5,2.51
+MongoDB + MySQL,5,2.51
+MongoDB + Python,5,2.51
+MongoDB + React,5,2.51
+MySQL + Node.js,5,2.51
+MySQL + Python,5,2.51
+MySQL + Vue.js,5,2.51
+Node.js + PostgreSQL,5,2.51
+Node.js + RabbitMQ,5,2.51
+Pandas + Python,5,2.51
+RabbitMQ + SQL,5,2.51
+.NET + Kubernetes,4,2.01
+.NET + PostgreSQL,4,2.01
+API + Go,4,2.01
+API + Kotlin,4,2.01
+API + Playwright,4,2.01
+API + Spark,4,2.01
+AWS + C#,4,2.01
+AWS + Go,4,2.01
+AWS + LangGraph,4,2.01
+AWS + MongoDB,4,2.01
+Angular + Azure,4,2.01
+Angular + Docker,4,2.01
+Angular + Git,4,2.01
+Angular + TypeScript,4,2.01
+Azure + Spring Boot,4,2.01
+C# + Kubernetes,4,2.01
+C++ + Python,4,2.01
+CI/CD + FastAPI,4,2.01
+CI/CD + MySQL,4,2.01
+CI/CD + Redis,4,2.01
+CI/CD + Spark,4,2.01
+Databricks + Kafka,4,2.01
+Databricks + Power BI,4,2.01
+Docker + GraphQL,4,2.01
+Docker + MongoDB,4,2.01
+FastAPI + Python,4,2.01
+Git + MySQL,4,2.01
+GraphQL + JavaScript,4,2.01
+GraphQL + Kafka,4,2.01
+GraphQL + Kubernetes,4,2.01
+GraphQL + React,4,2.01
+GraphQL + TypeScript,4,2.01
+Java + Kotlin,4,2.01
+JavaScript + Kafka,4,2.01
+JavaScript + Kubernetes,4,2.01
+JavaScript + MySQL,4,2.01
+JavaScript + Spring Boot,4,2.01
+Kafka + MongoDB,4,2.01
+Kafka + Redis,4,2.01
+Kafka + Terraform,4,2.01
+Kubernetes + React,4,2.01
+Kubernetes + Redis,4,2.01
+Kubernetes + TypeScript,4,2.01
+LangChain + React,4,2.01
+MongoDB + RabbitMQ,4,2.01
+MySQL + REST,4,2.01
+MySQL + RabbitMQ,4,2.01
+MySQL + React,4,2.01
+MySQL + SQL,4,2.01
+Node.js + Python,4,2.01
+Pandas + SQL,4,2.01
+PostgreSQL + Redis,4,2.01
+PostgreSQL + Spring Boot,4,2.01
+PostgreSQL + Terraform,4,2.01
+Power BI + Python,4,2.01
+Power BI + SQL Server,4,2.01
+Python + PyTorch,4,2.01
+Python + RabbitMQ,4,2.01
+RabbitMQ + Redis,4,2.01
+React + SQL,4,2.01
+React + Spring Boot,4,2.01
+Redis + SQL,4,2.01
+SQL + Terraform,4,2.01
+.NET + AWS,3,1.51
+.NET + Angular,3,1.51
+.NET + Kafka,3,1.51
+.NET + Python,3,1.51
+.NET + RabbitMQ,3,1.51
+.NET + TypeScript,3,1.51
+API + Cypress,3,1.51
+API + FastAPI,3,1.51
+API + Pandas,3,1.51
+API + Power BI,3,1.51
+API + React Native,3,1.51
+API + Ruby,3,1.51
+API + Vue.js,3,1.51
+AWS + GraphQL,3,1.51
+AWS + Pandas,3,1.51
+AWS + PyTorch,3,1.51
+AWS + Redis,3,1.51
+AWS + Rust,3,1.51
+AWS + Snowflake,3,1.51
+Angular + C#,3,1.51
+Angular + JavaScript,3,1.51
+Angular + Kubernetes,3,1.51
+Angular + Node.js,3,1.51
+Angular + PostgreSQL,3,1.51
+Angular + React,3,1.51
+Angular + SQL,3,1.51
+Angular + Spring Boot,3,1.51
+Azure + GraphQL,3,1.51
+Azure + MySQL,3,1.51
+Azure + Snowflake,3,1.51
+C# + Java,3,1.51
+C# + PostgreSQL,3,1.51
+C# + Python,3,1.51
+C# + TypeScript,3,1.51
+C++ + Java,3,1.51
+C++ + Kubernetes,3,1.51
+CI/CD + Cypress,3,1.51
+CI/CD + Go,3,1.51
+CI/CD + Kotlin,3,1.51
+CI/CD + Pandas,3,1.51
+CI/CD + Playwright,3,1.51
+CI/CD + Snowflake,3,1.51
+Cypress + Git,3,1.51
+Cypress + Playwright,3,1.51
+Databricks + Java,3,1.51
+Databricks + Snowflake,3,1.51
+Databricks + Terraform,3,1.51
+Docker + LangChain,3,1.51
+Docker + LangGraph,3,1.51
+Docker + SQL Server,3,1.51
+Flutter + Python,3,1.51
+Flutter + React,3,1.51
+GCP + Java,3,1.51
+GCP + Kafka,3,1.51
+GCP + MongoDB,3,1.51
+GCP + Power BI,3,1.51
+GCP + React,3,1.51
+GCP + Spark,3,1.51
+Git + GraphQL,3,1.51
+Git + LangChain,3,1.51
+Git + Playwright,3,1.51
+Git + SQL Server,3,1.51
+Git + Terraform,3,1.51
+Go + PostgreSQL,3,1.51
+GraphQL + Node.js,3,1.51
+GraphQL + SQL,3,1.51
+Java + RabbitMQ,3,1.51
+Java + Selenium,3,1.51
+JavaScript + MongoDB,3,1.51
+JavaScript + PHP,3,1.51
+JavaScript + Playwright,3,1.51
+JavaScript + Selenium,3,1.51
+Kafka + MySQL,3,1.51
+Kafka + Node.js,3,1.51
+Kafka + React,3,1.51
+Kafka + SQL Server,3,1.51
+Kafka + TypeScript,3,1.51
+Kubernetes + SQL Server,3,1.51
+LangChain + REST,3,1.51
+LangGraph + SQL,3,1.51
+MongoDB + Node.js,3,1.51
+MySQL + PHP,3,1.51
+MySQL + Redis,3,1.51
+Node.js + SQL,3,1.51
+Node.js + Spring Boot,3,1.51
+PostgreSQL + Vue.js,3,1.51
+Power BI + Spark,3,1.51
+Python + Snowflake,3,1.51
+Python + Vue.js,3,1.51
+RabbitMQ + React,3,1.51
+RabbitMQ + Spring Boot,3,1.51
+RabbitMQ + TypeScript,3,1.51
+React + Vue.js,3,1.51
+React Native + REST,3,1.51
+Redis + REST,3,1.51
+SQL + TypeScript,3,1.51
+Snowflake + SQL,3,1.51
+.NET + MongoDB,2,1.01
+API + C++,2,1.01
+API + PHP,2,1.01
+API + PyTorch,2,1.01
+API + Selenium,2,1.01
+API + Snowflake,2,1.01
+AWS + Kotlin,2,1.01
+AWS + Playwright,2,1.01
+AWS + TensorFlow,2,1.01
+AWS + Vue.js,2,1.01
+Angular + AWS,2,1.01
+Angular + GCP,2,1.01
+Angular + Kafka,2,1.01
+Angular + MongoDB,2,1.01
+Angular + Python,2,1.01
+Angular + RabbitMQ,2,1.01
+Angular + SQL Server,2,1.01
+Azure + Cypress,2,1.01
+Azure + FastAPI,2,1.01
+Azure + Go,2,1.01
+Azure + Pandas,2,1.01
+Azure + Playwright,2,1.01
+Azure + PyTorch,2,1.01
+Azure + Redis,2,1.01
+C# + Kafka,2,1.01
+C# + MongoDB,2,1.01
+C# + RabbitMQ,2,1.01
+C# + Selenium,2,1.01
+C++ + CI/CD,2,1.01
+C++ + Docker,2,1.01
+C++ + JavaScript,2,1.01
+C++ + Node.js,2,1.01
+C++ + React,2,1.01
+CI/CD + Flutter,2,1.01
+Cypress + GraphQL,2,1.01
+Cypress + JavaScript,2,1.01
+Cypress + REST,2,1.01
+Databricks + Spring Boot,2,1.01
+Docker + PHP,2,1.01
+Docker + Pandas,2,1.01
+Docker + PyTorch,2,1.01
+Docker + Redis,2,1.01
+Docker + Vue.js,2,1.01
+FastAPI + PostgreSQL,2,1.01
+FastAPI + SQL,2,1.01
+Flutter + JavaScript,2,1.01
+Flutter + REST,2,1.01
+Flutter + React Native,2,1.01
+Flutter + TypeScript,2,1.01
+GCP + JavaScript,2,1.01
+GCP + LangChain,2,1.01
+GCP + MySQL,2,1.01
+GCP + Pandas,2,1.01
+GCP + RabbitMQ,2,1.01
+GCP + Snowflake,2,1.01
+GCP + TypeScript,2,1.01
+Git + LangGraph,2,1.01
+Git + PHP,2,1.01
+Git + Pandas,2,1.01
+Git + React Native,2,1.01
+Git + Redis,2,1.01
+Git + Snowflake,2,1.01
+Go + Kubernetes,2,1.01
+Go + Python,2,1.01
+Go + REST,2,1.01
+GraphQL + Java,2,1.01
+GraphQL + MongoDB,2,1.01
+GraphQL + Playwright,2,1.01
+GraphQL + PostgreSQL,2,1.01
+GraphQL + RabbitMQ,2,1.01
+GraphQL + Redis,2,1.01
+Java + LangChain,2,1.01
+Java + LangGraph,2,1.01
+Java + MySQL,2,1.01
+Java + PHP,2,1.01
+Java + Playwright,2,1.01
+Java + Redis,2,1.01
+Java + Rust,2,1.01
+Java + Terraform,2,1.01
+JavaScript + RabbitMQ,2,1.01
+JavaScript + Rust,2,1.01
+JavaScript + SQL Server,2,1.01
+Kafka + Spark,2,1.01
+Kotlin + Kubernetes,2,1.01
+Kotlin + TypeScript,2,1.01
+Kubernetes + Ruby,2,1.01
+Kubernetes + Rust,2,1.01
+LangChain + MySQL,2,1.01
+LangChain + PostgreSQL,2,1.01
+LangChain + SQL,2,1.01
+LangChain + TypeScript,2,1.01
+LangChain + Vue.js,2,1.01
+LangGraph + MySQL,2,1.01
+LangGraph + PostgreSQL,2,1.01
+LangGraph + REST,2,1.01
+LangGraph + React,2,1.01
+LangGraph + Vue.js,2,1.01
+MongoDB + Redis,2,1.01
+MongoDB + SQL,2,1.01
+MongoDB + Spring Boot,2,1.01
+MongoDB + Terraform,2,1.01
+MySQL + TypeScript,2,1.01
+Node.js + PHP,2,1.01
+Node.js + Playwright,2,1.01
+Node.js + Redis,2,1.01
+Node.js + Vue.js,2,1.01
+PHP + Vue.js,2,1.01
+Pandas + REST,2,1.01
+Pandas + Spark,2,1.01
+Playwright + REST,2,1.01
+Playwright + React,2,1.01
+Playwright + Selenium,2,1.01
+Playwright + TypeScript,2,1.01
+PostgreSQL + SQL Server,2,1.01
+PyTorch + SQL,2,1.01
+PyTorch + TensorFlow,2,1.01
+Python + React Native,2,1.01
+Python + Redis,2,1.01
+Python + Rust,2,1.01
+Python + Spring Boot,2,1.01
+Python + TensorFlow,2,1.01
+Python + TypeScript,2,1.01
+REST + SQL Server,2,1.01
+RabbitMQ + SQL Server,2,1.01
+RabbitMQ + Terraform,2,1.01
+React + Ruby,2,1.01
+React + SQL Server,2,1.01
+React Native + TypeScript,2,1.01
+Redis + Spring Boot,2,1.01
+Ruby + TypeScript,2,1.01
+SQL + Vue.js,2,1.01
+SQL Server + Terraform,2,1.01
+Snowflake + Terraform,2,1.01

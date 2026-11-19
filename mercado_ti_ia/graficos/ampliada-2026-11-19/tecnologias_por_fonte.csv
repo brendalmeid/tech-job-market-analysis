@@ -1,0 +1,99 @@
+﻿competencia,vagas,percentual,fonte
+API,109,60.56,Lever
+CI/CD,75,41.67,Lever
+AWS,67,37.22,Lever
+Python,64,35.56,Lever
+Azure,63,35.0,Lever
+SQL,57,31.67,Lever
+Java,48,26.67,Lever
+Git,42,23.33,Lever
+REST,40,22.22,Lever
+Docker,33,18.33,Lever
+Kubernetes,33,18.33,Lever
+React,32,17.78,Lever
+JavaScript,31,17.22,Lever
+PostgreSQL,29,16.11,Lever
+TypeScript,29,16.11,Lever
+.NET,26,14.44,Lever
+GCP,25,13.89,Lever
+C#,22,12.22,Lever
+Kafka,21,11.67,Lever
+Spring Boot,19,10.56,Lever
+Terraform,19,10.56,Lever
+Databricks,18,10.0,Lever
+Node.js,17,9.44,Lever
+MongoDB,12,6.67,Lever
+RabbitMQ,12,6.67,Lever
+Angular,10,5.56,Lever
+LangChain,10,5.56,Lever
+MySQL,10,5.56,Lever
+Spark,10,5.56,Lever
+GraphQL,9,5.0,Lever
+Power BI,8,4.44,Lever
+SQL Server,8,4.44,Lever
+Kotlin,7,3.89,Lever
+LangGraph,7,3.89,Lever
+C++,6,3.33,Lever
+Go,6,3.33,Lever
+Flutter,5,2.78,Lever
+Pandas,5,2.78,Lever
+Redis,5,2.78,Lever
+Snowflake,5,2.78,Lever
+FastAPI,4,2.22,Lever
+Playwright,4,2.22,Lever
+React Native,4,2.22,Lever
+Rust,4,2.22,Lever
+Cypress,3,1.67,Lever
+PHP,3,1.67,Lever
+PyTorch,3,1.67,Lever
+Ruby,3,1.67,Lever
+Selenium,3,1.67,Lever
+Vue.js,3,1.67,Lever
+TensorFlow,2,1.11,Lever
+API,5,26.32,ProgramaThor
+C#,5,26.32,ProgramaThor
+MySQL,5,26.32,ProgramaThor
+.NET,4,21.05,ProgramaThor
+Git,4,21.05,ProgramaThor
+JavaScript,4,21.05,ProgramaThor
+Node.js,4,21.05,ProgramaThor
+RabbitMQ,4,21.05,ProgramaThor
+PHP,3,15.79,ProgramaThor
+Python,3,15.79,ProgramaThor
+SQL,3,15.79,ProgramaThor
+SQL Server,3,15.79,ProgramaThor
+TypeScript,3,15.79,ProgramaThor
+Angular,2,10.53,ProgramaThor
+Docker,2,10.53,ProgramaThor
+Java,2,10.53,ProgramaThor
+Kafka,2,10.53,ProgramaThor
+PostgreSQL,2,10.53,ProgramaThor
+React,2,10.53,ProgramaThor
+Spring Boot,2,10.53,ProgramaThor
+Vue.js,2,10.53,ProgramaThor
+.NET Core,1,5.26,ProgramaThor
+AI Agents,1,5.26,ProgramaThor
+ASP.NET Core,1,5.26,ProgramaThor
+Azure,1,5.26,ProgramaThor
+Bootstrap,1,5.26,ProgramaThor
+C,1,5.26,ProgramaThor
+C++,1,5.26,ProgramaThor
+CI/CD,1,5.26,ProgramaThor
+CSS,1,5.26,ProgramaThor
+Dart,1,5.26,ProgramaThor
+Firebase,1,5.26,ProgramaThor
+Flask,1,5.26,ProgramaThor
+Flutter,1,5.26,ProgramaThor
+HTML,1,5.26,ProgramaThor
+Jest,1,5.26,ProgramaThor
+Kotlin,1,5.26,ProgramaThor
+LangChain,1,5.26,ProgramaThor
+NoSQL,1,5.26,ProgramaThor
+PyTorch,1,5.26,ProgramaThor
+RESTful,1,5.26,ProgramaThor
+Redis,1,5.26,ProgramaThor
+Rust,1,5.26,ProgramaThor
+SAP,1,5.26,ProgramaThor
+SAP HANA,1,5.26,ProgramaThor
+Swift,1,5.26,ProgramaThor
+jQuery,1,5.26,ProgramaThor
